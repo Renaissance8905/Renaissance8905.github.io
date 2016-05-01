@@ -1,0 +1,43 @@
+html {
+    background-color: #90C9DC;
+}
+.screenshot {
+    width: 300px;
+    padding-top: 60px;
+}
+
+section, body {
+    background-color: wheat;
+}
+
+.page-header {
+    background-color: #90C9DC;
+    border-bottom-width: 0;
+    border-top: .25em groove #90C9DC;
+}
+
+.page-header > h1 {
+    font-size: 60px;
+    padding-left: .5em;
+}
+.page-header > h4 {
+    text-align: right;
+    padding-right: 2em;
+}
+
+.playstore {
+    width: 300px;
+    padding-top: 10em;
+    padding-bottom: 5em;
+    position: absolute;
+    top: 500px;
+    right: 100px;
+}
+
+.shell {
+    position: absolute;
+    z-index: 1;
+    width: 420px;
+    top: 146px;
+    left: 20px;
+}
