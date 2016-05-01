@@ -30,7 +30,7 @@ section, body {
     padding-top: 10em;
     padding-bottom: 5em;
     position: absolute;
-    top: 500px;
+    bottom: -80px;
     right: 100px;
 }
 /*
@@ -48,4 +48,8 @@ section, body {
     width: 420px;
     top: -50px;
     left: -32px;
+}
+
+.descr {
+    padding-top: 5em;
 }
